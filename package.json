@@ -1,0 +1,19 @@
+{
+  "name": "xiaojiao",
+  "version": "1.0.0",
+  "description": "records of xiaojiao -- one of my favorite personal websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xiaojiao"
+  },
+  "author": "democrazy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
